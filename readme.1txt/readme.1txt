@@ -1,5 +1,0 @@
-cp hello.c hello1.c 
-git status
-git add .
-git commit -m"update"
-git push
